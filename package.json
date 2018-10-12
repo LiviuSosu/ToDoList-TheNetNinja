@@ -1,0 +1,29 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "This project was created after watching the tutorials of The Nen Ninja. I noticed that it was missing and I intendet to create it in case if someone needs it. I also inted to mentain it to the latest versions of the Node/MongoDB api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiviuSosu/ToDoList-TheNetNinja.git"
+  },
+  "keywords": [
+    "node",
+    "tutorial",
+    "template_project"
+  ],
+  "author": "Liviu Sosu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiviuSosu/ToDoList-TheNetNinja/issues"
+  },
+  "homepage": "https://github.com/LiviuSosu/ToDoList-TheNetNinja#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "mongoose": "^5.3.1"
+  }
+}
